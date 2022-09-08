@@ -24,9 +24,8 @@
 <img src="http://img.shields.io/badge/-인스타그램-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <hr/>
 
-<div class align = "left">
 
-<img align = "right" src="ROGO.png"/>
+<div align = "left">
 <h6><b> 📖 사용 기술 </b></h6>
 
 
