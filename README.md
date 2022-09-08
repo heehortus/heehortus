@@ -1,6 +1,6 @@
 <div align=left>
 <h5>👋 Hi, I’m HORTUS 👋</h5>
-<a href="https://velog.io/@heehortus"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@hortus"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </div>
 <hr/>
 
