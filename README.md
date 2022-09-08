@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset = "UTF-8">
+</head>
+<body>
+
 <div style="margin: 40px;" align = "center">
 
 
@@ -17,8 +24,7 @@
 <img src="http://img.shields.io/badge/-인스타그램-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 <hr/>
 
-<div align = "left">
-
+<div class align = "left">
 <h6><b> 📖 사용 기술 </b></h6>
 
 
@@ -29,13 +35,13 @@
 
 <h6><b> 📌 사용 툴 </b> </h6>
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white" style="margin-right : 500px;"/>
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white"/>
 </div>
 
-<div align = "right">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heehortus&langs_count=8&theme=cobalt&bg_color=white&locale=kr" style="margin-top:-5000px;"/>
+<hr>
 
 
-</div>
+<img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heehortus&langs_count=8&theme=cobalt&bg_color=white&locale=kr"/>
 
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
 
