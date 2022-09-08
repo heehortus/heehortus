@@ -25,6 +25,8 @@
 <hr/>
 
 <div class align = "left">
+
+<img align = "right" src="ROGO.png"/>
 <h6><b> 📖 사용 기술 </b></h6>
 
 
@@ -37,7 +39,7 @@
 <img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white"/>
 
-<img align = "right" src="ROGO.png"/>
+
 </div>
 
 <hr>
