@@ -21,7 +21,7 @@
 <a href="https://github.com/heehortus"><img src="https://img.shields.io/badge/깃허브-181717?style=float-square&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@hee_hortus"><img src="https://img.shields.io/badge/벨로그-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:hee.hortus@gmail.com"><img src="https://img.shields.io/badge/지메일-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hee.hortus@gmail.com"/></a>
-<img src="http://img.shields.io/badge/-인스타그램-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<a href="https://instagram.com/he.e.hortus"><img src="http://img.shields.io/badge/-인스타그램-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 <hr/>
 
 
