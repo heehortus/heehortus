@@ -4,7 +4,7 @@
     <meta charset = "UTF-8">
   </head>
   <body>
-    <a><float:0%>✨HORTUS✨
-    </div>
+    <p>✨<b>HORTUS</b>✨</p>
+    <hr>
   </body>
   </html>
