@@ -43,5 +43,5 @@
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heehortus&langs_count=8&theme=cobalt&bg_color=white&locale=kr"/>
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
+<img align = "right" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
 
