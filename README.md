@@ -1,6 +1,12 @@
 <div align=left>
 <h5>👋 Hi, I’m HORTUS 👋</h5>
+<a href="https://github.com/heehortus"><img src="https://img.shields.io/badge/Github-181717?style=float-square&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@hee_hortus"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="mailto:hee.hortus@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hee.hortus@gmail.com"/></a>
+     <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
 <hr/>
 
@@ -23,10 +29,7 @@
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=https://byul91oh.tistory.com/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> <a href="https://instagram.com/fivepxint">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/fivepxint/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a> <a href="mailto:quf8093@gmail.com">
+    <a href="mailto:quf8093@gmail.com">
     <img 
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:quf8093@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
