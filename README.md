@@ -45,5 +45,5 @@
 <hr>
 
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
+<img align = "center" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
 
