@@ -21,7 +21,7 @@
 <a href="https://www.notion.so/hortus/Hortus-8da5b01299484c5482e800e04d659f3a"><img src="https://img.shields.io/badge/노션-000000?style=float-square&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@hee_hortus"><img src="https://img.shields.io/badge/벨로그-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
 <a href="mailto:hee.hortus@gmail.com"><img src="https://img.shields.io/badge/지메일-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hee.hortus@gmail.com"/></a>
-<a href="https://instagram.com/he.e.hortus"><img src="http://img.shields.io/badge/-인스타그램-black?style=flat&logo=Instagram&link=https://instagram.com/he.e.hortus/" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
 <hr/>
 
 
