@@ -25,7 +25,7 @@
 <hr/>
 
 
-<div align = "left">
+<div align = "center">
 <h6><b> 📖 사용 기술 </b></h6>
 
 
