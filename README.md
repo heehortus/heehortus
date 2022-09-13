@@ -51,4 +51,4 @@
 
 <hr>
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_hortus)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_hortus)](https://velog.io/@hee_hortus)
