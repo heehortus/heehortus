@@ -19,7 +19,7 @@
 
 
 <a href="https://www.notion.so/hortus/Hortus-8da5b01299484c5482e800e04d659f3a"><img src="https://img.shields.io/badge/노션-000000?style=float-square&logo=Notion&logoColor=white"/></a>
-<a href="https://velog.io/@hee_hortus"><img src="https://img.shields.io/badge/벨로그-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://velog.io/@hee_hortus"><img src="https://img.shields.io/badge/벨로그-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <a href="mailto:hee.hortus@gmail.com"><img src="https://img.shields.io/badge/지메일-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hee.hortus@gmail.com"/></a>
 
 <hr/>
@@ -49,3 +49,6 @@
 
 <img align = "center" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white&locale=kr"/>
 
+<hr>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_hortus)](https://github.com/eungyeole/velog-readme-stats)
