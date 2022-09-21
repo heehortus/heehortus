@@ -37,9 +37,10 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
 
 <h6><b> 📌 사용 툴 </b> </h6>
-<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat&logo=AdobePhotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/UNITY-black?style=flat-square&logo=Unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 
 
 </div>
