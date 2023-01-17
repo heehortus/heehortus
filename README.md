@@ -49,9 +49,4 @@
 
 <hr>
 
-
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=heehortus&show_icons=true&theme=cobalt&bg_color=white"/>
-
-<hr>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_hortus)](https://velog.io/@hee_hortus)
