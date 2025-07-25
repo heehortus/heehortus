@@ -40,7 +40,6 @@
 <h6><b> 📌 사용 툴 </b> </h6>
 <img src="https://img.shields.io/badge/UNITY-black?style=flat-square&logo=Unity&logoColor=white"/>
 <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJIdea&logoColor=white"/>
 
@@ -48,5 +47,3 @@
 </div>
 
 <hr>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hee_hortus)](https://velog.io/@hee_hortus)
